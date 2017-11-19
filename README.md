@@ -7,6 +7,7 @@ Assignment1
 ---
 Assignment1 completed on Oct. 24,2017.<br>
 More familiar with value iteration,policy iteration,model-free learning and model-based learning.<br>
+
 Assignment2 and Assignment3
 ---
 Assignment2 and Assignment3 completed on Nov. 19,2017.<br>
